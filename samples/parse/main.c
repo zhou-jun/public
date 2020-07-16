@@ -25,5 +25,11 @@ int main()
 
     nmea_parser_destroy(&parser);
 
+
+
+
+
+    
+
     return 0;
 }

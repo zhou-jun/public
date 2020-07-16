@@ -1,4 +1,4 @@
-CC = gcc 
+CC = arm-linux-l
  
 BIN = lib/libnmea.a 
 MODULES = generate generator parse parser tok context time info gmath sentence  
